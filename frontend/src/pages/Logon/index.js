@@ -15,7 +15,6 @@ export default function Logon() {
   async function handleLogin(e) {
     e.preventDefault();
     
-
     try {
       const response = await api.post('sessions', { id });
 

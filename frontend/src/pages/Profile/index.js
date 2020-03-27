@@ -5,7 +5,6 @@ import { FiPower, FiTrash2 } from 'react-icons/fi';
 import api from '../../services/api';
 
 import './styles.css';
-import heroesImg from '../../assets/heroes.png';
 import logoImg from '../../assets/logo.svg';
 
 export default function Profile() {
@@ -14,7 +13,6 @@ export default function Profile() {
 
   const ongId = localStorage.getItem('ongId');
   const ongName = localStorage.getItem('ongName');
-
 
   useEffect(() => {
     api.get('profile', {
