@@ -4,6 +4,7 @@
 <p>Abra a pasta do projeto BeTheHero, abra a pasta backend no terminal</p>
 
 <p>Faça a instalação das dependencias do projeto. Com yarn ou npm. 
+ 
   # yarn -> yarn install 
   
     ou 
