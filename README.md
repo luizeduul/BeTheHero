@@ -17,8 +17,8 @@
  </p>
 <h2>Descrição</h2>
  
- <p>Be The Hero é um projeto que visa que ongs se cadastrem na plataforma e publiquem seus casos em que precisem de doações</p>
- <p>Cadastrando os dados no site os usuários do aplicativo podem visualizar e enviar mensagem por email ou whatsapp para saber mais sobre o problema e também saber como ajudar essa ong.</p>
+ <p>Be The Hero é um projeto que visa que ongs se cadastrem na plataforma e publiquem seus casos em que precisem de doações;
+ Cadastrando os dados no site os usuários do aplicativo podem visualizar e enviar mensagem por email ou whatsapp para saber mais sobre o problema e também saber como ajudar essa ong.</p>
  
   
 ## Tecnologias
