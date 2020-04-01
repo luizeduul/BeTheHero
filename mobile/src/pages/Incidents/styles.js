@@ -1,11 +1,11 @@
-import React from 'react';
 import { StyleSheet } from 'react-native';
+import Constants from 'expo-constants';
 
 export default StyleSheet.create({
   container: {
     flex: 1,
     paddingHorizontal: 24,
-    paddingTop: 20
+    paddingTop: Constants.statusBarHeight + 20,
   },
   header: {
     flexDirection: "row",
@@ -36,7 +36,7 @@ export default StyleSheet.create({
     marginTop: 32
   },
   incident: {
-    paddingTop: 24,
+    padding: 24,
     borderRadius: 8,
     backgroundColor: "#FFF",
     marginBottom: 16

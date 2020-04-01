@@ -15,6 +15,8 @@
     "@react-navigation/stack": "^5.2.7",
     "@unimodules/core": "^5.1.0",
     "axios": "^0.19.2",
+    "core-js": "3",
+    "expo-constants": "^9.0.0",
     "expo-mail-composer": "^8.1.0",
     "intl": "^1.2.5",
     "react": "16.11.0",
