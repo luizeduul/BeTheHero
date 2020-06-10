@@ -33,12 +33,12 @@ Cadastrando os dados no site os usuários do aplicativo podem visualizar e envia
 ## Mobile
 <p align="center">
   <p>Página inicial app</p>
-  <img alt="mobile home" src=".github/home.jpg"/>
+  <img alt="mobile home" src=".github/home.jpg"  width="250px"/>
 </p>
 
 <p align="center">
   <p>Página de detalhes dos casos</p>
-  <img alt="mobile details" src=".github/details.jpg"/>
+  <img alt="mobile details" src=".github/details.jpg"  width="250px"/>
 </p>
   
 ## Tecnologias utilizadas
