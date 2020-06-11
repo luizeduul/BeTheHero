@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Be The Hero" src=".github/icon.png" width="250px" />
+  <img alt="Be The Hero" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/icon_MiddNMuc5.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -27,22 +27,22 @@ Cadastrando os dados no site os usuários do aplicativo podem visualizar e envia
 
 ## Web
 <p align="center">
-  <img alt="webversion" src=".github/frontend.gif"/>
+  <img alt="webversion" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/frontend_c_7LPIpqi.gif"/>
 </p>
 
 ## Mobile
 <p align="center">
   <p>Página inicial app</p>
-  <img alt="mobile home" src=".github/home.jpg"  width="250px"/>
+  <img alt="mobile home" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/home_TeM0MJOhz.jpg"  width="250px"/>
 </p>
 
 <p align="center">
   <p>Página de detalhes dos casos</p>
-  <img alt="mobile details" src=".github/details.jpg"  width="250px"/>
+  <img alt="mobile details" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/details_Rgzjr716G6.jpg"  width="250px"/>
 </p>
   
 ## Tecnologias utilizadas
  Esse projeto foi desenvolvido com as seguintes tecnologias:
-  - [Node JS](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
-  - [React JS](https://reactjs.org): É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
-  - [React Native](https://facebook.github.io/react-native/): É uma biblioteca criada pelo Facebook, com base no ReactJS, para desenvolvimento de aplicações Mobile (Android e IOS utilizando) apenas JavaScript como linguagem. Diferencial para as outras libs do genero, é que ele compila código nativo (Java: Android e Swift: IOS) e não um aplicativo com uma página web.
+  - [Node JS](https://nodejs.org/en/) : É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
+  - [React JS](https://reactjs.org) : É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
+  - [React Native](https://facebook.github.io/react-native/) : É uma biblioteca criada pelo Facebook, com base no ReactJS, para desenvolvimento de aplicações Mobile (Android e IOS utilizando) apenas JavaScript como linguagem. Diferencial para as outras libs do genero, é que ele compila código nativo (Java: Android e Swift: IOS) e não um aplicativo com uma página web.
