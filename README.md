@@ -9,7 +9,19 @@
 </p>
 
 <p>Projeto desenvolvido durante a Semana Omistack 11.0 da Rocketseat 🚀</p>
-      
+
+## Índice
+- [Descrição](#descrição)
+- [Como utilizar](#como-utilizar)
+- [Previews do projeto](#previews-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias)
+
+## Descrição
+<p>Be The Hero tem por objetivo permitir que ongs se cadastrem na plataforma e publiquem seus casos em que precisem de doações.
+Cadastrando os dados no site os usuários do aplicativo podem visualizar e enviar mensagem por email ou whatsapp para saber mais sobre o problema e também saber como ajudar essa ong.</p>
+
+---
+
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
 <p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas</p><br>
@@ -18,37 +30,28 @@
   <a href="https://github.com/luizeduul/BeTheHero/tree/master/frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/luizeduul/BeTheHero/tree/master/mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-<h2>Descrição</h2>
- 
-<p>Be The Hero tem por objetivo permitir que ongs se cadastrem na plataforma e publiquem seus casos em que precisem de doações.
-Cadastrando os dados no site os usuários do aplicativo podem visualizar e enviar mensagem por email ou whatsapp para saber mais sobre o problema e também saber como ajudar essa ong.</p>
 
-<h2>Previews do projeto</h2>
+---
 
-## Web
+## Previews do projeto
+<h3>Web</h3>
 <p align="center">
   <img alt="webversion" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/frontend_c_7LPIpqi.gif"/>
 </p>
 
-## Mobile
+<h3>Mobile</h3>
 <p align="center">
   <p>Página inicial app</p>
-<<<<<<< HEAD
-  <img alt="mobile home" src=".github/home.jpg"/>
-=======
   <img alt="mobile home" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/home_TeM0MJOhz.jpg"  width="250px"/>
->>>>>>> 86ce490283c25a7077e373218205d74721a9925b
 </p>
 
 <p align="center">
   <p>Página de detalhes dos casos</p>
-<<<<<<< HEAD
-  <img alt="mobile details" src=".github/details.jpg"/>
-=======
   <img alt="mobile details" src="https://ik.imagekit.io/8qmbx6p1dq/Be_The_Hero/details_Rgzjr716G6.jpg"  width="250px"/>
->>>>>>> 86ce490283c25a7077e373218205d74721a9925b
 </p>
-  
+
+---
+
 ## Tecnologias utilizadas
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node JS](https://nodejs.org/en/) : É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
