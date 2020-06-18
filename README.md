@@ -52,7 +52,7 @@ Cadastrando os dados no site os usuários do aplicativo podem visualizar e envia
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node JS](https://nodejs.org/en/) : É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
   - [React JS](https://reactjs.org) : É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
